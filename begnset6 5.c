@@ -10,6 +10,6 @@ while(n)
 n=n/10;
 l++;
 }
-printf("%d",l);
+  printf("%d",l);
 getch();
 }
